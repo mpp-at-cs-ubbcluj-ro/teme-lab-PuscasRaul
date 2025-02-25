@@ -1,3 +1,5 @@
-public static void main(String[] args) {
-	System.out.println("AAAAAAAAAAAAAAAAAAAAAAA");
+public class tema {
+	public static void main(String[] args) {
+		System.out.println("AAAAAAAAAAAAAAAAAAAAAAA");
+	}
 }
